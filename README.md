@@ -7,10 +7,10 @@ Unicode 文字を大きく表示・比較するためのデスクトップツー
 
 ## スクリーンショット
 
-[image](https://github.com/user-attachments/assets/482b1cb5-6640-4420-8198-9217d44d4fb3) -->
-[image](https://github.com/user-attachments/assets/826dc7b3-d472-4d1e-afd1-0fd6b08d613e) -->
-[image](https://github.com/user-attachments/assets/f0de5992-443c-4f3b-9cc3-7a38a03916bf) -->
-[image](https://github.com/user-attachments/assets/1a26f64e-6207-4b62-adf8-eecfb7712f42) -->
+![image](https://github.com/user-attachments/assets/482b1cb5-6640-4420-8198-9217d44d4fb3)
+![image](https://github.com/user-attachments/assets/826dc7b3-d472-4d1e-afd1-0fd6b08d613e)
+![image](https://github.com/user-attachments/assets/f0de5992-443c-4f3b-9cc3-7a38a03916bf)
+![image](https://github.com/user-attachments/assets/1a26f64e-6207-4b62-adf8-eecfb7712f42)
 
 ---
 
